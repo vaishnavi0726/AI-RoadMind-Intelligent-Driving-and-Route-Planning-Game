@@ -1,0 +1,168 @@
+[
+    {
+        "level": 1,
+        "mission": 1,
+        "time_taken": 11,
+        "collisions": 1,
+        "fuel_used": 10.4,
+        "route_efficiency": 10.77,
+        "score": 874,
+        "ai_difficulty": "HARD"
+    },
+    {
+        "level": 1,
+        "mission": 1,
+        "time_taken": 7.12,
+        "collisions": 0,
+        "fuel_used": 2.07,
+        "route_efficiency": 13.77,
+        "score": 1760,
+        "ai_difficulty": "HARD"
+    },
+    {
+        "level": 1,
+        "mission": 1,
+        "time_taken": 7.78,
+        "collisions": 0,
+        "fuel_used": 2.34,
+        "route_efficiency": 16.03,
+        "score": 1756,
+        "ai_difficulty": "HARD"
+    },
+    {
+        "level": 1,
+        "mission": 1,
+        "time_taken": 5.99,
+        "collisions": 0,
+        "fuel_used": 3.83,
+        "route_efficiency": 8.28,
+        "score": 1170,
+        "ai_difficulty": "HARD"
+    },
+    {
+        "level": 1,
+        "mission": 2,
+        "time_taken": 5.76,
+        "collisions": 0,
+        "fuel_used": 3.68,
+        "route_efficiency": 11.71,
+        "score": 1171,
+        "ai_difficulty": "HARD"
+    },
+    {
+        "level": 1,
+        "mission": 3,
+        "time_taken": 5.92,
+        "collisions": 0,
+        "fuel_used": 4.15,
+        "route_efficiency": 7.91,
+        "score": 1170,
+        "ai_difficulty": "HARD"
+    },
+    {
+        "level": 1,
+        "mission": 3,
+        "time_taken": 8.09,
+        "collisions": 0,
+        "fuel_used": 4.28,
+        "route_efficiency": 7.31,
+        "score": 1159,
+        "ai_difficulty": "HARD"
+    },
+    {
+        "level": 1,
+        "mission": 3,
+        "time_taken": 9.92,
+        "collisions": 0,
+        "fuel_used": 6.78,
+        "route_efficiency": 6.47,
+        "score": 1150,
+        "ai_difficulty": "HARD"
+    },
+    {
+        "level": 1,
+        "mission": 3,
+        "time_taken": 4.62,
+        "collisions": 0,
+        "fuel_used": 1.88,
+        "route_efficiency": 18.12,
+        "score": 1176,
+        "ai_difficulty": "HARD"
+    },
+    {
+        "level": 1,
+        "mission": 3,
+        "time_taken": 12.22,
+        "collisions": 0,
+        "fuel_used": 4.48,
+        "route_efficiency": 9.6,
+        "score": 1138,
+        "ai_difficulty": "HARD"
+    },
+    {
+        "level": 1,
+        "mission": 3,
+        "time_taken": 11.52,
+        "collisions": 1,
+        "fuel_used": 7.76,
+        "route_efficiency": 8.34,
+        "score": 1043,
+        "ai_difficulty": "HARD",
+        "weather": "FOG"
+    },
+    {
+        "level": 1,
+        "mission": 3,
+        "time_taken": 6.7,
+        "collisions": 0,
+        "fuel_used": 4.08,
+        "route_efficiency": 13.51,
+        "score": 1242,
+        "ai_difficulty": "HARD",
+        "weather": "FOG"
+    },
+    {
+        "level": 1,
+        "mission": 3,
+        "time_taken": 12.45,
+        "collisions": 0,
+        "fuel_used": 7.87,
+        "route_efficiency": 6.64,
+        "score": 1196,
+        "ai_difficulty": "HARD",
+        "weather": "FOG"
+    },
+    {
+        "level": 2,
+        "mission": 1,
+        "time_taken": 6.37,
+        "collisions": 2,
+        "fuel_used": 4.97,
+        "route_efficiency": 13.02,
+        "score": 901,
+        "ai_difficulty": "BALANCED",
+        "weather": "FOG"
+    },
+    {
+        "level": 2,
+        "mission": 2,
+        "time_taken": 7.56,
+        "collisions": 0,
+        "fuel_used": 8.86,
+        "route_efficiency": 10.87,
+        "score": 1211,
+        "ai_difficulty": "HARD",
+        "weather": "HEAVY RAIN"
+    },
+    {
+        "level": 2,
+        "mission": 2,
+        "time_taken": 8.41,
+        "collisions": 1,
+        "fuel_used": 14.54,
+        "route_efficiency": 7.32,
+        "score": 1044,
+        "ai_difficulty": "HARD",
+        "weather": "HEAVY RAIN"
+    }
+]
